@@ -21,13 +21,14 @@ Advanced AI Models: Researching transformers and reinforcement learning.
 
 🚀 Projects
 Here are some of the projects that I'm proud of:
-[Bookling]: A website to let user publish books that consist of 
-[Project Name]: A Django-based web application, perhaps highlighting a unique feature or challenge.
-[Project Name]: An Android app developed using Kotlin, detailing what makes it special.
+[Bookling]: Bookling is a website that allows users to sign up, log in, and post book information to share with others. Users can search, sort, and filter books according to their preferences and save their favorite books. Users can also view which books others favour.
 
 🗣️ Let's Connect!
+
 Instagram : Stevanielim123
+
 Linkedin : https://www.linkedin.com/in/stevanie-lim-252024274/
 
 ✨ Fun Fact
+
 When I'm not coding, you might find me exploring new tech, watching anime, or mukbang!
