@@ -13,10 +13,5 @@ Cloud Computing: Exploring AWS and Azure services for scalable backend systems.
 Cross-Platform Mobile Development: Experimenting with Flutter to build versatile apps.
 Advanced AI Models: Researching transformers and reinforcement learning.
 
-🗣️ Let's Connect!
-
-Instagram : Stevanielim123
-Linkedin : https://www.linkedin.com/in/stevanie-lim-252024274/
-
 ✨ Fun Fact
 When I'm not coding, you might find me exploring new tech, watching anime, or mukbang!
